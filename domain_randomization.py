@@ -48,9 +48,9 @@ class DomainRandomizedVecFlappy(VecFlappy):
             self._w_flap[i] = rng.integers(-C.V_dev, C.V_dev + 1, size=C.T_max)
         return h0
 
+    @staticmethod
     def _sample_episode_physics(base: Const, rng: np.random.Generator, dr: DRConfig) -> Const:
         """Sample one episode's physics from the episode-seed RNG."""
-        
         kw: dict = {}
         name = base.name
 
