@@ -1,4 +1,4 @@
-# Documentation: `flappy_bird_project_student.ipynb`
+# Documentation: `flappy_bird_project_student.ipynb` 
 
 This document explains the whole notebook in plain language — as if explaining
 it to a curious kid who has never seen reinforcement learning before — and
