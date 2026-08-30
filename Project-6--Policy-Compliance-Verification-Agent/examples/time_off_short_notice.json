@@ -1,0 +1,9 @@
+{
+  "action_type": "time_off_request",
+  "fields": {
+    "leave_type": "annual",
+    "days": 6,
+    "notice_days": 4,
+    "medical_certificate": false
+  }
+}

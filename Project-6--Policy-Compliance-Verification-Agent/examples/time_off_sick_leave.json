@@ -1,0 +1,10 @@
+{
+  "action_type": "time_off_request",
+  "fields": {
+    "leave_type": "maternity",
+    "days": 90,
+    "notice_days": 21,
+    "medical_certificate": true,
+    "start_date": "2026-10-01"
+  }
+}

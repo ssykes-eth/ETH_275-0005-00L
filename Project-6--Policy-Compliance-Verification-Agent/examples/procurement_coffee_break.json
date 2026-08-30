@@ -1,0 +1,11 @@
+{
+  "action_type": "procurement_request",
+  "fields": {
+    "amount": 800,
+    "num_quotes": 1,
+    "approver": "department_head",
+    "purchase_order_raised": true,
+    "vendor_name": "Buchmann Oberstrass",
+    "description": "Catering for FDD coffee break"
+  } 
+}

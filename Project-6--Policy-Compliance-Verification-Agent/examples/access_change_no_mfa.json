@@ -1,0 +1,10 @@
+{
+  "action_type": "access_change",
+  "fields": {
+    "resource_classification": "restricted",
+    "mfa_enabled": false,
+    "shared_account": false,
+    "grant_to": "alice42@mycompany.com",
+    "justification": "Needs to query the customer PII table for a migration."
+  }
+}

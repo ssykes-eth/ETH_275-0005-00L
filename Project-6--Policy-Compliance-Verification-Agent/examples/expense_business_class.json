@@ -1,0 +1,11 @@
+{
+  "action_type": "expense_report",
+  "fields": {
+    "category": "flight",
+    "amount": 800,
+    "region": "western_europe",
+    "receipt_attached": false,
+    "days_since_expense": 40,
+    "description": "Business class from ZRH to CDG"
+  }
+}

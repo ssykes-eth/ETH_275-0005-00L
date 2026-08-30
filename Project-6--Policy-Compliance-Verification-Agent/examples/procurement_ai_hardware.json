@@ -1,0 +1,11 @@
+{
+  "action_type": "procurement_request",
+  "fields": {
+    "amount": 10000,
+    "num_quotes": 1,
+    "approver": "direct_manager",
+    "purchase_order_raised": false,
+    "vendor_name": "Nvidia",
+    "description": "Hardware for the AI team"
+  } 
+}

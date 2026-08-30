@@ -1,0 +1,11 @@
+{
+  "action_type": "expense_report",
+  "fields": {
+    "category": "meal",
+    "amount": 38,
+    "region": "switzerland",
+    "receipt_attached": false,
+    "days_since_expense": 3,
+    "description": "Lunch while travelling."
+  }
+}

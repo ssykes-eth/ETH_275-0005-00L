@@ -1,0 +1,11 @@
+{
+  "action_type": "expense_report",
+  "fields": {
+    "category": "hotel",
+    "amount": 420,
+    "region": "switzerland",
+    "receipt_attached": true,
+    "days_since_expense": 6,
+    "description": "One night at a hotel during a client visit in Zurich."
+  }
+}
